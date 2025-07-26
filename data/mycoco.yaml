@@ -19,6 +19,5 @@ names:
   1: offground
   2: ground
   3: safebelt
-
 # Download script/URL (optional)
 # download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco128.zip
